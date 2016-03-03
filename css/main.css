@@ -1,0 +1,51 @@
+.barra{
+	background: #fff;
+}/* Tu CSS va aqui */
+.pull-right{
+	float: right;
+}
+img{
+	width: 18em;
+	height: auto;
+}
+.may{
+	text-transform: uppercase;
+}
+.mar-1{
+	margin: 2em;
+}
+section{
+	background: #777;
+}
+.text-white{
+	color: #fff;
+}
+.gordi{
+	font-weight: bolder;
+}
+.tetx-right{
+	text-align: right;
+}
+.mar-2{
+	margin: 5em 10em;
+}
+.form{
+	background: #999;
+	border-radius: 5px;
+}
+.pd-1{
+	padding: 4em;
+}
+@media (min-width: 0px) and (max-width: 835px){
+    .mar-1{
+	margin: 1em 0.3em;}
+	.mar-2{
+	margin: 4em 3em;}
+	img{
+		width: 14em;
+		height: auto;
+	}
+	.pd-1{
+		padding: 2em;
+	}
+}
